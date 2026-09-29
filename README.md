@@ -8,4 +8,3 @@ ESP32-based smart home using FreeRTOS, Blynk and Siri.
 - Motion lighting (PIR)
 - Gas leak warning
 - Remote & Voice control (Blynk + Siri)
-
